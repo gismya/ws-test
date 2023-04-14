@@ -1,0 +1,14 @@
+{
+  "name": "testscript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ftrack/api": "https://github.com/gismya/ftrack-javascript#experiment/event-hub-for-node",
+    "axios": "^1.3.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "url": "^0.11.0",
+    "ws": "^8.13.0"
+  }
+}
